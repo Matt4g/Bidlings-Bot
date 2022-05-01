@@ -21,3 +21,8 @@ const job = new CronJob(" 0 8 * * *", () => {
 })
 
 job.start();
+
+/*
+pm2 list
+pm2 start index.js
+*/
