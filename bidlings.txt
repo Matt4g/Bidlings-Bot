@@ -157,7 +157,7 @@ Birth mc Smurf
 Presence mc Adolescence
 Band mc Rand
 Method mc Methhead
-Happen mc Rappen
+Happen mc ⁸Rappen
 Dare mc Bare
 Sketch mc Fetch
 Hair mc Share
@@ -179,7 +179,7 @@ Possible mc Popsicle
 Endorse mc Horse
 Enforce mc Endorse
 Seismic mc Heimlick
-Estimate mc Rest a minute
+Estimate mc Rest and wait
 Publisher mc Punisher
 Miles per Hour mc Sweet and Sour
 Pollution mc Solution
@@ -372,7 +372,8 @@ Murbon Mc Bourbon
 Frisky Mc Whiskey
 Systematic mc Rhythmatic
 Flash mc Clash
-Query Mc Yeary Flurger Mc Burger
+Query Mc Yeary
+Flurger Mc Burger
 Shiver mc Liver
 Donald Mc Ronald
 Flourish mc Nourish
@@ -554,7 +555,7 @@ Bossy Mc Saucy
 Saucey mc Lossy
 Bone Mc Stone
 Blamo Mc Ammo
- Cardiac mc Heart Attack
+Cardiac mc Heart Attack
 PM mc BM
 Crack my Back mc Cadillac
 Toyota mc Toy Yoda
@@ -565,16 +566,16 @@ Shawl mc Small
 Yellow Mc Mellow
 Marty mc Party
 Fly mc Nigh
- Power Mc Flower
- Smelly Dope Mc Sticky Note
-  Wish Mc Fish
- Flute Mc Mute
- Meff Mc Deaf
- Hind Mc Blind
- Gag Mc Stag
+Power Mc Flower
+Smelly Dope Mc Sticky Note
+Wish Mc Fish
+Flute Mc Mute
+Meff Mc Deaf
+Hind Mc Blind
+Gag Mc Stag
 Caboose Mc Moose
- Hellno Mc Elmo
- Goat Mc Stoat
+Hellno Mc Elmo
+Goat Mc Stoat
 Sandwich mc Bandwidth
 Fantastic mc Plastic
 Sammich mc Hammick
@@ -594,18 +595,18 @@ Sitcom Cramer mc Epic Gamer
 Hind felt mc Seinfeld
 One Mc Done
 Two Mc Spew
- Three Mc Me
+Three Mc Me
 Four Mc Bore
- Five Mc Thrive
- Six Mc Chicks
+Five Mc Thrive
+Six Mc Chicks
 Eight Mc Fate
- Nine Mc Dine
- Ten Mc Den
+Nine Mc Dine
+Ten Mc Den
 Eleven Mc Heaven
- Twelve Mc Delve
- Thirteen Mc Flirting
+Twelve Mc Delve
+Thirteen Mc Flirting
 Fourteen Mc Forting
- Frothing Mc Coughing
+Frothing Mc Coughing
 Funger Mc Plunger
 Emoji Mc Joji
 Thrice Mc Dice
@@ -644,7 +645,7 @@ Heck Mc Kek
 Benzel Keins mc End of Times
 Bub mc Sub
 Donovan mc Dominant
- Sleepy Trouts Mc Google Hangouts
+Sleepy Trouts Mc Google Hangouts
 Gold nug mc Big Hug
 Ulong Benence mc Run-On Sentence
 Angry Matt mc Laundromat
@@ -658,7 +659,7 @@ Binted mc Printed
 Bot mc Thot
 API mc Alien Eye
 Option mc Adoption
- Rash mc Bash
+Rash mc Bash
 Choice mc Voice
 Doctor Ben mc Stolen Pen
 Howard mc Coward

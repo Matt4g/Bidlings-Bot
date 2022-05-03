@@ -6,7 +6,7 @@ let bidlingNumber;
 const tweet = async () => {
 try {
         fs.readFile("bidlings.txt", "utf-8", (err, data) =>{
-           bidlingNumber = (Math.ceil(Math.random() * 666))
+           bidlingNumber = (Math.ceil(Math.random() * 737))
             bidlingName = data.split("\r\n")[bidlingNumber]
         })
         await rwClient.v2.tweet( "Bidling #"+ (bidlingNumber + 1) +": "+ bidlingName )
@@ -25,4 +25,5 @@ job.start();
 /*
 pm2 list
 pm2 start index.js
+pm2 stop 0
 */
