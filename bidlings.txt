@@ -1,6 +1,6 @@
 Bide mc wide
 Don mc Long
-Gall mc Tall
+Gatll mc Tall
 Buge mc Huge
 Mort mc short
 Rat mc fat
@@ -119,7 +119,7 @@ Toot mc Cute
 Scunge mc Plunge
 Grinch mc Pinch
 Brungly mc Scrungly
-Spinge mc Cringe
+Binge mc Cringe
 NFT mc Embassy
 Flarallelogram mc Parallelogram
 Margin mc Chargin
@@ -151,7 +151,7 @@ Party mc Hardy
 One forty seven mc fifteen eleven
 Go mc No
 Bought mc Rot
-Door mc Florr
+Door mc Floor
 Birthday mc Hurtday
 Birth mc Smurf
 Presence mc Adolescence
@@ -252,7 +252,7 @@ Trial mc Denial
 Quarter mc Warder
 Punch mc Lunch
 Biscuit mc Triscuit
-Toppida Poppida
+Toppida mc Poppida
 Rocket mc Pocket
 Peel mc Reel
 Surgeon mc Sturgeon
@@ -401,7 +401,7 @@ Kit Mc Shit
 Lube Mc Pube
 Seize mc Cheese
 Bliege Mc Siege
-Haze Mc Maze
+Kissing Mc Missing
 Pleaser Mc Caesar
 Hurry Mc Furry
 Yoink Mc Sploink
@@ -409,7 +409,7 @@ Dumb Mc Thumb
 Biff Mc Cliff
 Trin Mc Bin
 Haunt ‘em Mc Quantum
-Kissing Mc Missing
+Haze Mc Maze
 Hoard Mc Reward
 Keeper Mc Creeper
 Tums Mc Crumbs
@@ -417,7 +417,7 @@ Big Mc Twig
 7 Mc 11
 Chime Mc Crime
 Ford Mc Sword
-Hodge Mc Dodge
+Smoke Mc Dope
 Home Mc Chrome
 Aperture mc Temperature
 Undone Mc Speedrun
@@ -425,7 +425,7 @@ Thigh Socks Mc Skybox
 Heading Mc Setting
 Slavo Mc Bravo
 Bro Mc Crow
-Smoke Mc Dope
+Hodge Mc Dodge
 Floppy Mc Sloppy
 Owo Mc Uwu
 Scruffy mc Fluffy
@@ -462,7 +462,7 @@ Martin mc Wartin
 Wartin wc Martin
 Stabby mc Baddy
 Myer mc Guire Esq.
-Fire mc Lyre
+Fire mc Meijer
 Dang Mc Gang
 Blaine mc Cain
 Fonda Mc Honda
@@ -507,7 +507,7 @@ Tower Rob mc Howard Bob
 Murder Goonies Mc Pudding Spoonies
 Pug Mc Bug
 Dookie Mc Nookie
-Refrigerator mc Carborator
+Refrigerator mc Carburetor
 See ya later mc Calculator
 Double Mc Trouble
 Eggo Mc Lego
@@ -533,7 +533,7 @@ Linoleum mc Petroleum
 Widen mc Biden
 Vile mc Bile
 Wild Mc Child
-K.I.S.S.I.N.G. mc M.I.S.S.I.S.S.I.P.P.I.
+Bidlings sitting in a Tree mc K.I.S.S.I.N.G.
 Bramber Mc Amber
 Monday Mc Sunday
 Ice Rink mc Nice Drink
@@ -545,9 +545,9 @@ Tit mc Lit
 Lone Sparrow Mc Bone Marrow
 Itsabird mc Youmisherd
 Hey there slick mc suk ma dik
- Blotchy Mc Apache
+Blotchy Mc Apache
 Handle Island Mc Dandelion
- Blizzard Mc Lizard
+Blizzard Mc Lizard
 Roast mc Toast
 King Gizzard mc Lizard Wizard
 Dizzy Mc Glizzy
@@ -560,7 +560,7 @@ PM mc BM
 Crack my Back mc Cadillac
 Toyota mc Toy Yoda
 POW mc BMW
- Bin mc Thin
+Bin mc Thin
 Shawl mc Small
 29 mc Parking Fine
 Yellow Mc Mellow
@@ -629,7 +629,7 @@ Luna mc Tuna
 Two Million mc Tom Gavillion
 Bluff mc Stuff
 Meaner mc Beaner
-Maguffin Macguffin
+Maguffin Mc Guffin
 Aaron Mclarren
 Aaron mc nae nae bomb
 Robert Stein mc Cobalt Mine
@@ -736,3 +736,264 @@ School mc Fool
 You Got Mail mc Gary the Snail
 Ox mc Dox
 Baiter mc Hater
+& mc Amsterdam
+@ mc Vat
+Vaseline mc Gasoline
+Legit mc Digit
+Cloudy mc Rowdy
+ Cat mc Sat
+Pandy mc Randy
+Fort-worth mc Court Shorts
+Sheep mc Deep
+JFK mc MBA
+NLC mc Energy
+Three Quarters mc Tree Morphers
+Top Hat mc Pop Cat
+Pat mc Hat
+  32 mc Dirty Shoe
+Detract mc Abstract
+Hammock mc Cram it!
+Punctuation mc Puzzle Creation
+Goop mc Loop
+Marrow to Chill mc Marottichal
+Dyrus mc Virus
+Fiery mc Diary
+Liar mc Lyre
+Lute mc Loot
+Sonnet mc Bonnet
+Bield mc Field
+Steve mc Believe
+Read mc Lead
+Read mc Lead
+Read mc Lead
+Read mc Lead
+Skin mc Sin
+Shin mc Twin
+Grin mc Violin
+Graduate mc affiliate
+Bottom Text mc Awesome Sex
+Hairy Back mc Master Sax
+Guzzle mc Muzzle
+Two in the Morning mc Blue Bin of Mourning
+9:22 mc Fight in the Blue
+Grown-up mc Homestuck
+Seasick mc Homesick
+On Your Left mc Donald Cleft
+Boon mc Spoon
+Funner mc Gunner
+Hummy mc Gummy
+Gummer mc Hummer
+Hoomer mc Coomer
+Boomer mc Zoomer
+Metronome mc Home Alone
+Hidden in the Sands mc Undertale the Sans
+Molasses mc Glasses
+Grease Buyer mc Ceasefire
+Little Star mc Cookie Jar
+Scamper mc Pamper
+Line Wanderer mc Bill Squanderer
+ Bone Stasis mc CodeHS
+MS Word mc Joy to the World
+MS Paint mc Procreate
+Bawls mc Walls
+Crunk mc Dunk
+Dip mc Sip
+Last Day of School mc Big Pool of Drool
+The Meaning of Life mc Cloud Strife
+The Fine Game of Nil mc Time Pains and Pills
+Strut & Rut mc Putt & Cut
+Natural Harvest mc Rats of the Farthest
+Fear & Dread mc Pencil Lead
+Vines of Log mc Fear of Dog
+Ice mc Slice 
+Headphone mc Dinnerbone
+Fonzie Mc Nazi
+C# mc Sea Shark
+Java mc Lava
+Bikeathon mc Python
+Visual Studio Mc My Soul Stadia
+Stack Overflow mc Back Overgrown
+JavaScript mc Mall Strip
+Mouse Mc Blouse
+Cringy Homestuck Mc Columbus Firetruck
+Kerbal mc Gerble
+Over Mc Grover
+The Grease, Stare and Fight mc ॰F
+The Bees Sell to us mc ॰C
+Jeez Melvin mc ॰K
+Knees Banking mc ॰R
+She Sells mc Sea Shells
+John Christian mc Gone Fishin
+Bugs Bunny Mc Hugs Funny
+Laffy Mc Taffy
+Mad Looks Mc Gadzooks
+Ploink Mc Zoink
+Circle Fence Mc Circumference
+Harden Mc Garden
+Mommy Mc Comedy
+Daddy mc Laddie
+Pass mc Lass
+Rob Banks mc Gob Stanks
+Abc mc A Bee Sea 
+ABC mc 123
+Alphabetris mc Alpha Get This
+Process Mc Loch Ness
+839 mc I wanna die
+Hot Cha mc Gotcha!
+Seize her net mc ethernet
+Yelp Mc Help
+Osiris Mc Papyrus
+Notification Mc Segregation
+Dollar Homes mc Collarbones
+Dollar Store Mc Dinosaur
+Dollar Tree mc Hollar She
+Big Sword Mc Discord
+Tetris mc Forget This
+Merf mc Nerf
+Muffin mc Tuffin
+Stuffin mc Nuthin
+Kill mc Dill
+Banana mc Bornana
+Hannah mc Barbarrah
+Anime mc Ran Away
+The Mc Uh
+Hittin Mc Kitten
+Violence mc Violet
+Senile Mc Pedophile
+Makarov Mc Nabokov
+Landline Mc Landmine
+Flatten Mc Latin
+Dictionary Mc Pictionary
+Book Club mc Dish Scrub
+Bum Mc Rum
+Social-economic Angle mc Schitzo Rectangle
+Dingle mc Tingle
+Malleable Mc Valuable
+Chex Mc Rex
+Haiku mc Type 2
+ Fettuccini Mc Mussolini
+Linguini mc Meanie
+Bush mc Tush
+Sister Jants mc Mr. Pants
+Round One mc Found Gun
+Time Waster mc Turkey Baster
+Brain mc Train
+Go Drive mc Archive
+March Hive mc Archive
+Slammin mc Salmon
+Bologna mc Phony
+Bologna mc Dogma
+Brownie mc Townie
+Grover mc Dover
+Glover mc Hover
+ Mumke mc Bumke
+Arch mc Bark
+David Bowie mc Gravy Boatie
+Moldy mc Voldie
+Ticks mc Mix
+Glad mc Chad
+Bad mc Plaid
+Wedgie mc Veggie
+Chadwick Wolfgang mc Ice Pick Coal Stain
+Born mc Corn
+Tookie mc Cookie
+Flask mc Mask
+Last Stretch mc Under Arrest
+Thousand mc Cowsand
+Zipper mc Skipper
+Spork mc York
+Down mc Frown
+Baking Frownies mc Making Mounies
+Food mc Douche
+Mooch mc Gooch
+Dracula mc Bat Gulag
+Little mc Middle
+Loner mc Doner
+Ear mc Rear
+Doubt mc Pout
+Equilateral mc Quadrilateral
+Use it mc Lose it
+Tunesick mc Music
+Spinge mc Fringe
+Eye mc Spy
+Table mc Stable
+Larry mc Cherry
+Roaster mc Toaster
+Sunburn mc Fun learn
+Boney Mark mc Tony Stark
+Peppered mc Leopard
+Mitch mc Eldritch
+Oil Spill mc Foil Pills
+Kyle mc Egg
+Doesn’t mc Rhyme
+Hoblin mc Goblin
+Yes mc Dress
+Ross mc Boss
+See Us mc Prius
+Sinkem mc Tinkem
+Brain Cell mc Grain Melt
+Kyle mc Style
+Nick mc Sick
+Rap mc Scrap
+Mathew mc Glathew
+Sheep Creep Mc Meep Meep
+Erupt Mc Corrupt
+Eruptor mc Europe Tour
+Rollie mc Pollie
+Geared Mc Beard 
+Top Gear mc Flop Career
+Seventh Place mc Severed Face
+Rubric mc Tooth Pick
+Six Flags Mc Pickaxe
+Plague mc Leg
+Walker Mc Stalker
+{Player Fname} mc {Player Lname}
+Navy Mc Gravy
+Bus Fire mc Car Tire
+Extra Tight mc Exobyte 
+Stalactite mc Stalagmite
+Data mc Dayton
+Data mc Dallas
+Everythebody mc Cover With Honey
+Large Header Mc Bed Wetter
+ Format Mc Doormat
+Grid Rhythm mc Bid Winnem
+Shenanidungeons mc Banana Funyuns
+Flamin Hot mc Gamin Bot
+Thoron mc Boron
+JPEG mc MPEG
+MP4 mc Out the Door
+MP3 mc End of Me
+MP5 mc Won’t Survive
+MP2 mc What are You
+Wine mc Dine
+Sixel mc Pixel
+PS5 mc Burger and Fries
+Xbox Live mc Diners Drive-ins and Dives
+PS1 mc You are fun
+Pawn Stars Mc Lawn Cars
+USB Mc SMP
+MP1 mc Run and Gun
+MP6 mc Makes me Sick
+MP8 mc Carbonate
+PS2 mc How bout’ you
+PS3 mc Trees of Green
+PS4 mc Open the door
+Roses Mc Moses
+Jesus me Jean Sus
+Far From Home mc All Alone
+Far from God mc Free from Law
+God mc Claude
+Food Fight Mc Good Night
+Drone Mc Clone
+Dyson mc Lyson
+Persona mc Lysona
+Snip mc Flip
+Raspberry Pie mc I’m gonna cry
+Bagel Cutter mc Label Gutter
+Arduino Mc Cappuccino
+Pentagonal Prism mc Inescapable Prison
+MP9 mc You’re mine
+MP7 mc I’m in heaven
+998 mc Not too late
+Hitler mc Knitler
