@@ -16,8 +16,9 @@ try {
     }
 }
 const job = new CronJob(" 0 8 * * *", () => {
-    tweet()
+tweet();    
 })
+
 job.start();
 /*
 pm2 list
